@@ -3,7 +3,7 @@
 
 ## Ход работы
 
-### Конфигурация файла default в sites-enabled
+### Конфигурация файла server в sites-enabled
 **Настройка серверов:**
 ```
 server {
