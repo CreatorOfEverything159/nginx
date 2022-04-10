@@ -5,7 +5,7 @@
 ## Ход работы
 
 ### Конфигурация файла default в sites-enabled
-**Настройка сервера:**
+**Настройка серверов:**
 ```
 server {
         listen 80 default_server;
